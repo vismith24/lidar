@@ -9,7 +9,7 @@ This project was part of a Fundamentals of Communication project course offered 
 Kevin John (kevin.j17@iiits.in)  
 Hani Mohammed (hani.m17@iiits.in)  
 Vismith Adappa (vismith.v17@iiits.in)  
-Prashant Raj (prashant.r17@iiits.in) 
+Prashant Raj (prashant.r17@iiits.in)  
 Sai Krishna Raj (saikrishna.d17@iiits.in) 
 
  
