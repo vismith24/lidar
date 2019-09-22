@@ -8,7 +8,7 @@ This project was part of a Fundamentals of Communication project course offered 
 #### Group members  
 Kevin John (kevin.j17@iiits.in)  
 Hani Mohammed (hani.m17@iiits.in)  
-Vismith Adappa (vismithv.17@iiits.in)  
+Vismith Adappa (vismithv.a17@iiits.in)  
 Prashant Raj (prashant.r17@iiits.in)  
 Sai Krishna Raj (saikrishna.d17@iiits.in) 
 
